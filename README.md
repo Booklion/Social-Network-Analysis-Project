@@ -4,6 +4,6 @@
 
 The analysis was conducted on a network of over 10K artists that are linked by songs they have worked on together and whose semantic is given by the popularity index. The data has been collected through Spotify API and analysed using Gephi.
 
-The popularity of an artist is influenced by the number of collaborators in most of the cases (the more popular the collaborators are, the better), although there exist some artists who are extremely popular on their own, without having too many connections, or, on the contrary, they have many connections, but their popularity index has a lower value (their collaborators also had low popularity).
+The popularity of an artist is influenced by the number of collaborators in most of the cases (the more popular the collaborators are, the better), although there exist some artists who are extremely popular on their own, without having too many connections, or, on the contrary, they have many connections, but their popularity index has a lower value (their collaborators also had low popularity).
 
 _Project realised during the Social Network Analysis course, University of Pisa_
